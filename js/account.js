@@ -41,7 +41,7 @@ window.onload = function(){
             } else {
                 if(user.value === username && pass.value === password)
                 {
-                    window.open(`${domain}` , "_self");
+                    window.open(domain , "_self");
                 }
             }
         }
