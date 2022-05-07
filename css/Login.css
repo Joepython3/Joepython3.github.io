@@ -1,0 +1,161 @@
+/* Start Global Rules */
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #2196f3;
+    --main-color-alt: #1787e0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Cairo', sans-serif, Arial, Helvetica;
+    background-color: #EEE;
+    text-transform: capitalize;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* End Global Rules */
+
+
+/* Start Header */
+
+.header {
+    background-color: white;
+    -webkit-box-shadow: 0 0 10px #DDD;
+    -moz-box-shadow: 0 0 10px #DDD;
+    box-shadow: 0 0 10px #DDD;
+    position: sticky;
+    top: 0;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .logo {
+    color: var(--main-color);
+    font-size: 26px;
+    font-weight: bold;
+    height: 73.6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* End Header */
+
+/* Start Login Form */
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 360px;
+    height: 420px;
+    margin-top: 62px;
+    color: var(--main-color);
+    padding: 25PX 30PX;
+}
+
+img {
+    position: absolute;
+    left: 47%;
+    z-index: 1;
+    bottom: 67%;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 0 5px;
+}
+
+.center h1 {
+    text-align: center;
+    padding: 0 0 5px;
+    font-size: 40px;
+}
+
+.center input {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.center input[type="text"],
+input[type="password"] {
+    border: none;
+    border-bottom: 1px solid #DDD;
+    outline: none;
+    height: 25px;
+    color: black;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.center input[type="text"]:focus,
+input[type="password"]:focus {
+    border-color: var(--main-color);
+}
+
+.center input[type="submit"] {
+    height: 40px;
+    border-radius: 20px;
+    background-color: var(--main-color);
+    color: white;
+    border: none;
+    outline: none;
+    margin-bottom: 0px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+p {
+    text-align: center;
+}
+
+.center a {
+    display: block;
+    text-align: center;
+    height: 40px;
+    border-radius: 20px;
+    background-color: var(--main-color);
+    color: white;
+    padding: 9.5px 0;
+    transition: 0.3s;
+}
+
+.center a:hover,
+.center input[type="submit"]:hover {
+    background-color: var(--main-color-alt);
+}
+
+/* End Login Form */

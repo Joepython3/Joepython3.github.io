@@ -1,0 +1,59 @@
+- Need To connect Search result with prduct Details (Done)
+- Need To Make Check Box at shop (Done)
+- Need To add cart in Product detail (Done)
+- Make Account History [Table or Grid]
+- Credit card redirecting
+
+
+games
+subscription
+license
+
+
+
+
+أحمد علي إبراهيم سليمان  
+20210081
+Contact Us : https://joepython3.github.io/contact.html
+Blog : https://joepython3.github.io/blog.html
+
+حازم محمد صابر جوده
+20210270
+Account Dashboard : https://joepython3.github.io/account.html
+Credit-Card : https://joepython3.github.io/credit_card.html
+
+أحمد عبدالرحمن محمد عبدالرحمن
+20210070
+Home Page : https://joepython3.github.io/index.html
+	- Function [Gallery - darkMode(optional)]
+	- reDesign
+Login/Sign-up : https://joepython3.github.io/login-sign-up.html
+	- Make sign up page
+	- Function [Validation - Account Validation]
+
+
+احمد عبد الغني احمد عبد الغني 
+20210074
+Shop :  https://joepython3.github.io/shop.html
+	- Function [Filter Using CheckBox](Done)
+Product-Details :  https://joepython3.github.io/product_details.html
+	- Function [Add to Cart](Done)
+
+
+حسام علاء الدين عبد المنعم عبد الله 
+20210284
+Cart : https://joepython3.github.io/cart.html
+	- Function [ Remove Button(Done) - Apply Coupon(Done) - Calculations Items(Done)]
+About Us : https://joepython3.github.io/about.html
+
+
+جورج عصام ابرام زخاري
+20210259
+Search : https://joepython3.github.io/search.html
+Search-Result : https://joepython3.github.io/search_result.html
+	- Make Them One Page
+	- Functions [Add to Cart(Done) - Delete Value Of Search(Done) - Add Auto complete HTML - Enter For Result Appearing(Done) - Search Bar Animation in Header(Done)]
+Account History : https://joepython3.github.io/account_history.html
+	- Function [Archive Button]
+
+Edit form : https://docs.google.com/forms/u/0/d/e/1FAIpQLSfr8FoOYzO0bHgSjkzMNUFwYOck75CtStmpOCNvj4bv1eKGFw/viewform?usp=form_confirm&edit2=2_ABaOnudA3I3vY6nJBEKTuBw1PzE6VOd9n8AzS8dzGbBrHaFJi0YaE2XTKNMM_eu-q0vruzE
