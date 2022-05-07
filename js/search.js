@@ -44,7 +44,7 @@ result.addEventListener("keypress" , function(event) {
     if(event.key === "Enter"){
         if(result.value !== "" || result.value !== null){
             sessionStorage.setItem("value" , result.value);
-            window.open("http://127.0.0.1:5500/search_result.html" , "_self");
+            window.open("http://Joepython3.github.io/search_result.html" , "_self");
         }
     };
 } );
