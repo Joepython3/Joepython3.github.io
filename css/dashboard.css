@@ -2079,3 +2079,11 @@ a:visited{
   #navbar .navbar {
     margin-bottom: 20px;
   }
+
+  #order a{
+    color:white;
+  }
+
+  #order a:visited{
+    color: white;
+  }
