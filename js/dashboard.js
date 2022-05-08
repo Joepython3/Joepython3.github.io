@@ -20,7 +20,7 @@ edit.onclick = function(){
     }
 }
 
-edit.onclick = function(e){
-    e.preventDefault();
-    window.open("Joepython3.github.io/account_history.html" , "blank");
-}
+// edit.onclick = function(e){
+//     e.preventDefault();
+//     window.open("Joepython3.github.io/account_history.html" , "blank");
+// }
